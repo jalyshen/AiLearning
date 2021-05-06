@@ -10,6 +10,9 @@ data/*
 
 # Distribution / packaging
 .Python
+.DS_Store
+docs/.DS_Store
+docs/ml/.DS_Store
 build/
 develop-eggs/
 dist/
